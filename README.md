@@ -17,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; C++ | C | JavaScript |  HTML | CSS | Bootstrap | ReactJS | Vue JS | Node JS | 
+- 💻 &nbsp; C++ | C | JavaScript |  HTML | CSS | Bootstrap | ReactJS | Node JS | 
  
 
 <br/>
