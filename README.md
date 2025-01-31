@@ -11,6 +11,7 @@
 - 🎓 &nbsp; I'm a college student in Bangladesh
 
 - 🌱 &nbsp; Learning about FrontEnd & Backend Development and try to implement Data Structure & Algorithm.
+- 🌱 &nbsp; Learning about Data Science and Machine Learning.
 - 🌱 &nbsp; Also a C++ Competitive Programmer.
 
 
