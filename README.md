@@ -8,17 +8,19 @@
 
 - 🤔 &nbsp; Exploring new technologies and learning Programming Stuff.
 
-- 🎓 &nbsp; I'm a college student in Bangladesh
+- 🎓 &nbsp; Civil Engineering student at Islamic University of Technology (IUT), Bangladesh.
 
-- 🌱 &nbsp; Learning about FrontEnd & Backend Development and try to implement Data Structure & Algorithm.
-- 🌱 &nbsp; Learning about Data Science and Machine Learning.
-- 🌱 &nbsp; Also a C++ Competitive Programmer.
+- 🌱 &nbsp; Passionate about Artificial Intelligence, Machine Learning, and Data Science.
+- 🌱 &nbsp; Interested in applying AI and data-driven solutions in Civil & Transportation Engineering.
+- 🌱 &nbsp; 🧠   Exploring Computer Vision, Deep Learning, and Research-based projects.
+🛠   Building projects with Python, ML frameworks, and modern development tools.
+📍   Currently working on Traffic Management, Transportation Analysis, and Behavioral Research
 
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; C++ | C | JavaScript |  HTML | CSS | Bootstrap | ReactJS | Node JS | Python | Django
+- 💻 &nbsp; C++ | C | Python | JavaScript |  HTML | CSS | Bootstrap | ReactJS | Node JS  | Django
  
 
 <br/>
